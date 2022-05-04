@@ -1,5 +1,0 @@
-mini-imagenet-bookkeeping-train.pkl filter=lfs diff=lfs merge=lfs -text
-mini-imagenet-bookkeeping-validation.pkl filter=lfs diff=lfs merge=lfs -text
-mini-imagenet-cache-test.pkl filter=lfs diff=lfs merge=lfs -text
-mini-imagenet-cache-train.pkl filter=lfs diff=lfs merge=lfs -text
-mini-imagenet-cache-validation.pkl filter=lfs diff=lfs merge=lfs -text
